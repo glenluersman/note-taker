@@ -16,6 +16,8 @@
 ## Usage
 - Application will allow user to add note title and description. Application will also allow user to save and delete notes.
 
+- Deployed application URL: https://still-tundra-14501.herokuapp.com
+
 ![note1](https://user-images.githubusercontent.com/91103314/150620348-17f258d8-3108-4dbf-8bca-b5d82ee17ff1.PNG)
 
 ![note2](https://user-images.githubusercontent.com/91103314/150620368-69300143-1028-4e3d-a1ce-3db2b33a4b28.PNG)
